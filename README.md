@@ -1,4 +1,4 @@
-### Hello World! <img src="wave.gif" width="25px"/>
+### Hello! <img src="wave.gif" width="25px"/>
 
 ```php
 $name = ['Miquéias'];
