@@ -2,8 +2,6 @@
 
 ```php
 $name = ['Miquéias'];
-
-}
 ```
 <p align="left">
 </p>
