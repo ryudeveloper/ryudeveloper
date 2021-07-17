@@ -19,7 +19,7 @@ $name = ['Miquéias'];
 <img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
 
 ### Tools and Frameworks
-<img height="32" width="32" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://cdn.discordapp.com/attachments/850965910252814347/865765773182894120/bootstrap.png" />&nbsp;
 
 
 ### Operating Systems
