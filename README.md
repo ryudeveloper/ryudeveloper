@@ -9,7 +9,7 @@ $name = ['Miquéias'];
 
 ### Programming Languages
 
-<img height="32" width="32" src="https://icongr.am/devicon/php-plain.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://cdn.discordapp.com/attachments/850965910252814347/865765388553682984/php.svg" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
