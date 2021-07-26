@@ -25,8 +25,8 @@ $name = ['Miquéias'];
 ### Operating Systems
 
 <img height="32" width="32" src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;  
-
+<img height="32" width="32" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://cdn.discordapp.com/attachments/850965910252814347/869254715790225408/openlogo-75.png" />&nbsp;
 </div>
 
 
