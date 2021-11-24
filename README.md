@@ -1,7 +1,7 @@
 ### Hello! <img src="wave.gif" width="25px"/>
 
 ```php
-$name = ['ryudev'];
+$welcome = ['Hello, welcome to my profile!'];
 ```
 <p align="left">
 </p>
