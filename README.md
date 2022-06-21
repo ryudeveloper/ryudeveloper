@@ -1,4 +1,4 @@
-### Hello! <img src="wave.gif" width="30px"/>
+### Hello!
 
 ```php
 $welcome = ['Hello, welcome to my profile!'];
