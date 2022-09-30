@@ -11,7 +11,7 @@ $welcome = ['Hello, welcome to my profile!'];
 
 <img height="34" width="34" src="https://cdn.discordapp.com/attachments/850965910252814347/869255380474138634/php_plain_logo_icon_146397.png" />&nbsp;
 <img height="34" width="34" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />&nbsp;
-<img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />&nbsp;
+<img height="64" width="64" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />&nbsp;
 <img height="34" width="34" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
 
 ### Frameworks
