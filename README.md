@@ -14,6 +14,12 @@ $welcome = ['Hello, welcome to my profile!'];
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />&nbsp;
 <img height="32" width="32" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
 
+### Frameworks
+
+<img height="32" width="32" src="https://icongr.am/devicon/cakephp-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="32" width="32" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff0000" />&nbsp;
+
+
 ### Database Systems
 
 <img height="32" width="32" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
