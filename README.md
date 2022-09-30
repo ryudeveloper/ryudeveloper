@@ -26,7 +26,7 @@ $message = 'Hello, welcome to my profile!';
 
 ### Tools and Frameworks
   
-<img height="64" width="64" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=94009e" />&nbsp;
+<img height="34" width="34" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=94009e" />&nbsp;
 
 
 ### Operating Systems
