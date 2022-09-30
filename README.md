@@ -24,7 +24,7 @@ $message = 'Hello, welcome to my profile!';
 
 <img height="34" width="34" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />&nbsp;
 
-### Tools and Frameworks
+### Frontend Frameworks
   
 <img height="34" width="34" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=94009e" />&nbsp;
 
