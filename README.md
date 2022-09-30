@@ -22,7 +22,7 @@ $message = 'Hello, welcome to my profile!';
 
 ### Database Systems
 
-<img height="34" width="34" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />&nbsp;
+<img height="34" width="34" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />&nbsp;
 
 ### Tools and Frameworks
   
