@@ -1,7 +1,7 @@
 ### Hello!
 
 ```php
-$welcome = ['Hello, welcome to my profile!'];
+$message = 'Hello, welcome to my profile!';
 ```
 <p align="left">
 </p>
@@ -32,7 +32,7 @@ $welcome = ['Hello, welcome to my profile!'];
 ### Operating Systems
 
 <img height="34" width="34" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" />&nbsp;
-<img height="34" width="34" src="https://cdn.discordapp.com/attachments/850965910252814347/869254715790225408/openlogo-75.png" />&nbsp;
+<img height="34" width="34" src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" />&nbsp;
 </div>
 
 
