@@ -10,8 +10,8 @@ $message = 'Hello, welcome to my profile!';
 ### Programming Languages
 
 <img height="34" width="54" src="https://icongr.am/devicon/php-plain.svg?size=128&color=001eff" />&nbsp;
-<img height="34" width="34" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />&nbsp;
-<img height="34" width="54" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />&nbsp;
+<img height="34" width="34" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />&nbsp;
+<img height="34" width="54" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" />&nbsp;
 <img height="34" width="34" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />&nbsp;
 
 ### Frameworks
