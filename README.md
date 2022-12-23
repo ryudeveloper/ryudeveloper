@@ -20,7 +20,7 @@ $message = 'Hello, welcome to my profile!';
 <img height="34" width="34" src="https://icongr.am/devicon/laravel-plain.svg?size=128&color=ff0000" />&nbsp;
 
 
-### Database Systems
+### Database
 
 <img height="34" width="34" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />&nbsp;
 
